@@ -1,0 +1,54 @@
+{
+	"name": "noir",
+	"displayName": "Noir",
+	"description": "",
+	"version": "1.0.0",
+	"publisher": "andrewberty",
+	"keywords": [
+		"theme",
+		"dark theme",
+		"noir",
+		"owl",
+		"github",
+		"outrun",
+		"dracula",
+		"andrew",
+		"andrew berty",
+		"andrew george"
+	],
+	"engines": {
+		"vscode": "^1.69.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Noir Github",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-Github-theme.json"
+			},
+			{
+				"label": "Noir Github Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-Github-Black-theme.json"
+			},
+			{
+				"label": "Noir Dracula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-dracula-theme.json"
+			},
+			{
+				"label": "Noir Owl",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-Owl-theme.json"
+			},
+			{
+				"label": "Noir Outrun",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-Outrun-theme.json"
+			}
+		]
+	}
+}
