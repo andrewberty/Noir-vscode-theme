@@ -3,6 +3,10 @@
 	"displayName": "Noir",
 	"description": "",
 	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andrew-george/Noir-vscode-theme"
+	},
 	"publisher": "andrewberty",
 	"keywords": [
 		"theme",
