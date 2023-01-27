@@ -1,8 +1,6 @@
-# Noir
+# Noir Themes
 
-# Noir Theme
-
-Collection of refined popular themes, just darker
+Collection of refined popular themes, just darker or cleaner.
 
 ### Noir Github
 
