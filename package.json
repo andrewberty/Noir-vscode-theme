@@ -3,7 +3,7 @@
 	"displayName": "Noir",
 	"icon": "assets/noir-logo.png",
 	"description": "Collection of refined popular themes, just darker or cleaner.",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/andrew-george/Noir-vscode-theme"
