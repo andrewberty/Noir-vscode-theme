@@ -1,27 +1,29 @@
 # Noir Themes
 
-Collection of refined popular themes, just darker or cleaner.
+## Collection of refined popular themes, just darker or cleaner.
+
+---
 
 ### Noir Github
 
-![Noir Github](assets/noir-github.png)
+![Noir Github](assets/Noir-Github.png)
 
 ### Noir Github Black
 
-![Noir Github Black](assets/noir-github-black.png)
+![Noir Github Black](assets/Noir-Github-Black.png)
 
 ### Noir Dracula
 
-![Noir Dracula](assets/noir-dracula.png)
+![Noir Dracula](assets/Noir-Dracula.png)
 
 ### Noir Owl
 
-![Noir Owl](assets/noir-owl.png)
+![Noir Owl](assets/Noir-Owl.png)
 
 ### Noir Outrun
 
-![Alt text](assets/noir-outrun.png)
+![Noir Outrun](assets/Noir-Outrun.png)
 
 ### Noir Cobalt
 
-![Noir Cobalt](assets/noir-cobalt.png)
+![Noir Cobalt](assets/Noir-Cobalt.png)
