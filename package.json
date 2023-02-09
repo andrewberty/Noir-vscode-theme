@@ -26,6 +26,7 @@
 		"vscode": "^1.69.0"
 	},
 	"categories": [
+		"vscode",
 		"Themes"
 	],
 	"contributes": {
@@ -43,7 +44,7 @@
 			{
 				"label": "Noir Dracula",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-dracula-theme.json"
+				"path": "./themes/Noir-Dracula-theme.json"
 			},
 			{
 				"label": "Noir Owl",
