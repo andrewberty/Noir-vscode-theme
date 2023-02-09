@@ -15,6 +15,7 @@
 		"noir",
 		"owl",
 		"github",
+		"cobalt",
 		"outrun",
 		"dracula",
 		"andrew",
@@ -53,6 +54,11 @@
 				"label": "Noir Outrun",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Noir-Outrun-theme.json"
+			},
+			{
+				"label": "Noir Cobalt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Noir-Cobalt-theme.json"
 			}
 		]
 	}
