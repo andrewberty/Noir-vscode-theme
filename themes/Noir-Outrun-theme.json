@@ -353,10 +353,7 @@
 		},
 		{
 			"name": "Markdown link title braces",
-			"scope": [
-				"punctuation.definition.string.begin.markdown",
-				"punctuation.definition.string.end.markdown"
-			],
+			"scope": ["punctuation.definition.string.begin.markdown", "punctuation.definition.string.end.markdown"],
 			"settings": {
 				"foreground": "#1ea8fc"
 			}
@@ -370,11 +367,7 @@
 		},
 		{
 			"name": "Markdown link",
-			"scope": [
-				"markup.underline.link.markdown",
-				"markup.underline.link.image.markdown",
-				"meta.image.inline.markdown"
-			],
+			"scope": ["markup.underline.link.markdown", "markup.underline.link.image.markdown", "meta.image.inline.markdown"],
 			"settings": {
 				"foreground": "#1ea8fc",
 				"fontStyle": ""
@@ -472,6 +465,8 @@
 		"editorError.foreground": "#ff2e97",
 		"editorWarning.foreground": "#ff9b50",
 		"editorInfo.foreground": "#7984D1",
+
+		"editorStickyScrollHover.background": "#2E2B4E",
 
 		// Editor Widget Colors
 		"editorWidget.background": "#2C304C",

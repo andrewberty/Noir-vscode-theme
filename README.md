@@ -2,8 +2,6 @@
 
 ## Collection of refined popular themes, just darker or cleaner.
 
----
-
 ### Noir Github
 
 ![Noir Github](assets/Noir-Github.png)
@@ -27,3 +25,11 @@
 ### Noir Cobalt
 
 ![Noir Cobalt](assets/Noir-Cobalt.png)
+
+### Noir Tokyo Night
+
+![Noir Tokyo Night](assets/Noir-Tokyo-Night.png)
+
+### Noir Tokyo Night Black
+
+![Noir Tokyo Night Black](assets/Noir-Tokyo-Night-Black.png)

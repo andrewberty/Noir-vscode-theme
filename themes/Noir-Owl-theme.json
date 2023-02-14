@@ -209,12 +209,7 @@
 	"tokenColors": [
 		{
 			"name": "Changed",
-			"scope": [
-				"markup.changed",
-				"meta.diff.header.git",
-				"meta.diff.header.from-file",
-				"meta.diff.header.to-file"
-			],
+			"scope": ["markup.changed", "meta.diff.header.git", "meta.diff.header.from-file", "meta.diff.header.to-file"],
 			"settings": {
 				"foreground": "#a2bffc"
 			}
@@ -953,11 +948,7 @@
 		},
 		{
 			"name": "C# Region",
-			"scope": [
-				"punctuation.separator.hash.cs",
-				"keyword.preprocessor.region.cs",
-				"keyword.preprocessor.endregion.cs"
-			],
+			"scope": ["punctuation.separator.hash.cs", "keyword.preprocessor.region.cs", "keyword.preprocessor.endregion.cs"],
 			"settings": {
 				"foreground": "#ffcb8b",
 				"fontStyle": "bold"
@@ -1025,20 +1016,14 @@
 		},
 		{
 			"name": "Attribute Name for CSS",
-			"scope": [
-				"meta.attribute-selector.css entity.other.attribute-name.attribute",
-				"variable.other.readwrite.js"
-			],
+			"scope": ["meta.attribute-selector.css entity.other.attribute-name.attribute", "variable.other.readwrite.js"],
 			"settings": {
 				"foreground": "#F78C6C"
 			}
 		},
 		{
 			"name": "Elixir Classes",
-			"scope": [
-				"source.elixir support.type.elixir",
-				"source.elixir meta.module.elixir entity.name.class.elixir"
-			],
+			"scope": ["source.elixir support.type.elixir", "source.elixir meta.module.elixir entity.name.class.elixir"],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -1052,10 +1037,7 @@
 		},
 		{
 			"name": "Elixir Constants",
-			"scope": [
-				"source.elixir constant.other.symbol.elixir",
-				"source.elixir constant.other.keywords.elixir"
-			],
+			"scope": ["source.elixir constant.other.symbol.elixir", "source.elixir constant.other.keywords.elixir"],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -1377,11 +1359,7 @@
 		},
 		{
 			"name": "Markdown Headings",
-			"scope": [
-				"markup.heading.markdown",
-				"markup.heading.setext.1.markdown",
-				"markup.heading.setext.2.markdown"
-			],
+			"scope": ["markup.heading.markdown", "markup.heading.setext.1.markdown", "markup.heading.setext.2.markdown"],
 			"settings": {
 				"foreground": "#82b1ff"
 			}
@@ -1550,12 +1528,7 @@
 		},
 		{
 			"name": "SCSS Variable",
-			"scope": [
-				"variable.scss",
-				"variable.sass",
-				"variable.parameter.url.scss",
-				"variable.parameter.url.sass"
-			],
+			"scope": ["variable.scss", "variable.sass", "variable.parameter.url.scss", "variable.parameter.url.sass"],
 			"settings": {
 				"foreground": "#c5e478"
 			}
@@ -1634,10 +1607,7 @@
 		},
 		{
 			"name": "TypeScript[React] Entity Name Types as Parameters",
-			"scope": [
-				"meta.type.parameters.ts entity.name.type",
-				"meta.type.parameters.tsx entity.name.type"
-			],
+			"scope": ["meta.type.parameters.ts entity.name.type", "meta.type.parameters.tsx entity.name.type"],
 			"settings": {
 				"foreground": "#5f7e97"
 			}
@@ -1656,10 +1626,7 @@
 		},
 		{
 			"name": "TypeScript[React] Punctuation Decorators",
-			"scope": [
-				"meta.decorator punctuation.decorator.ts",
-				"meta.decorator punctuation.decorator.tsx"
-			],
+			"scope": ["meta.decorator punctuation.decorator.ts", "meta.decorator punctuation.decorator.tsx"],
 			"settings": {
 				"foreground": "#82AAFF"
 			}
@@ -1716,20 +1683,14 @@
 		},
 		{
 			"name": "TypeScript Class Variable Keyword",
-			"scope": [
-				"meta.class.ts meta.var.expr.ts storage.type.ts",
-				"meta.class.tsx meta.var.expr.tsx storage.type.tsx"
-			],
+			"scope": ["meta.class.ts meta.var.expr.ts storage.type.ts", "meta.class.tsx meta.var.expr.tsx storage.type.tsx"],
 			"settings": {
 				"foreground": "#C792EA"
 			}
 		},
 		{
 			"name": "TypeScript Method Declaration e.g. `constructor`",
-			"scope": [
-				"meta.method.declaration storage.type.ts",
-				"meta.method.declaration storage.type.tsx"
-			],
+			"scope": ["meta.method.declaration storage.type.ts", "meta.method.declaration storage.type.tsx"],
 			"settings": {
 				"foreground": "#82AAFF"
 			}

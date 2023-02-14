@@ -53,6 +53,8 @@
 		"dropdown.listBackground": "#0e1f2c",
 		"dropdown.foreground": "#fff",
 
+		"editorStickyScrollHover.background": "#1a3952",
+
 		"editor.background": "#0e1f2c",
 		"editor.foreground": "#fff",
 		"editor.findMatchBackground": "#1a3952",
