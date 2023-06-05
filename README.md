@@ -33,3 +33,15 @@
 ### Noir Tokyo Night Black
 
 ![Noir Tokyo Night Black](assets/Noir-Tokyo-Night-Black.png)
+
+### Noir Poimandres
+
+![Noir Poimandres](assets/Noir-Poimandres.png)
+
+### Noir Poimandres Dark
+
+![Noir Poimandres Dark](assets/Noir-Poimandres-Dark.png)
+
+### Noir Poimandres Black
+
+![Noir Poimandres Black](assets/Noir-Poimandres-Black.png)
