@@ -132,7 +132,7 @@
 		"statusBar.background": "#12131b",
 		"statusBar.foreground": "#a6accd",
 		"statusBar.noFolderBackground": "#12131b",
-		"tab.activeBackground": "#30334080",
+		"tab.activeBackground": "#12131b",
 		"tab.activeForeground": "#e4f0fb",
 		"tab.border": "#00000000",
 		"tab.inactiveBackground": "#12131b",
