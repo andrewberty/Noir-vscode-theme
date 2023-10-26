@@ -1,101 +1,106 @@
 {
-	"name": "noir-theme-bundle",
-	"displayName": "Noir",
-	"icon": "assets/noir-logo.png",
-	"description": "Collection of refined popular themes, just darker or cleaner.",
-	"version": "1.4.2",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/andrew-george/Noir-vscode-theme"
-	},
-	"publisher": "andrewberty",
-	"keywords": [
-		"theme",
-		"dark theme",
-		"noir",
-		"owl",
-		"github",
-		"cobalt",
-		"outrun",
-		"dracula",
-		"poimandres",
-		"andrew",
-		"andrew berty",
-		"andrew george"
-	],
-	"engines": {
-		"vscode": "^1.69.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "Noir Github",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Github-theme.json"
-			},
-			{
-				"label": "Noir Github Black",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Github-Black-theme.json"
-			},
-			{
-				"label": "Noir Dracula",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Dracula-theme.json"
-			},
-			{
-				"label": "Noir Owl",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Owl-theme.json"
-			},
-			{
-				"label": "Noir Outrun",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Outrun-theme.json"
-			},
-			{
-				"label": "Noir Cobalt",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Cobalt-theme.json"
-			},
-			{
-				"label": "Noir Tokyo Night",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Tokyo-Night-theme.json"
-			},
-			{
-				"label": "Noir Tokyo Night Black",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Tokyo-Night-Black-theme.json"
-			},
-			{
-				"label": "Noir Poimandres",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Poimandres-theme.json"
-			},
-			{
-				"label": "Noir Poimandres Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Poimandres-Dark-theme.json"
-			},
-			{
-				"label": "Noir Poimandres Black",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Poimandres-Black-theme.json"
-			},
-			{
-				"label": "Noir Panda",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Panda-theme.json"
-			},
-			{
-				"label": "Noir Panda Blue",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Noir-Panda-blue-theme.json"
-			}
-		]
-	}
+  "name": "noir-theme-bundle",
+  "displayName": "Noir",
+  "icon": "assets/noir-logo.png",
+  "description": "Collection of refined popular themes, just darker or cleaner.",
+  "version": "1.4.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrew-george/Noir-vscode-theme"
+  },
+  "publisher": "andrewberty",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "noir",
+    "owl",
+    "github",
+    "cobalt",
+    "outrun",
+    "dracula",
+    "poimandres",
+    "andrew",
+    "andrew berty",
+    "andrew george"
+  ],
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noir Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Owl-theme.json"
+      },
+      {
+        "label": "Noir Outrun",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Outrun-theme.json"
+      },
+      {
+        "label": "Noir Cobalt",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Cobalt-theme.json"
+      },
+      {
+        "label": "Noir Tokyo Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Tokyo-Night-theme.json"
+      },
+      {
+        "label": "Noir Tokyo Night Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Tokyo-Night-Black-theme.json"
+      },
+      {
+        "label": "Noir Poimandres",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Poimandres-theme.json"
+      },
+      {
+        "label": "Noir Poimandres Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Poimandres-Dark-theme.json"
+      },
+      {
+        "label": "Noir Poimandres Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Poimandres-Black-theme.json"
+      },
+      {
+        "label": "Noir Panda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Panda-theme.json"
+      },
+      {
+        "label": "Noir Panda Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Panda-blue-theme.json"
+      },
+      {
+        "label": "Noir Rosé Pine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Rosé-Pine-theme.json"
+      },
+      {
+        "label": "Noir Rosé Pine Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Rosé-Pine-Moon-theme.json"
+      },
+      {
+        "label": "Noir Rosé Pine Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Rosé-Pine-Grey-theme.json"
+      },
+      {
+        "label": "Noir Rosé Pine Moon Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Rosé-Pine-Moon-Grey-theme.json"
+      }
+    ]
+  }
 }
