@@ -67,6 +67,16 @@
         "path": "./themes/Noir-Poimandres-Dark-theme.json"
       },
       {
+        "label": "Noir Poimandres Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Poimandres-Grey-theme.json"
+      },
+      {
+        "label": "Noir Poimandres Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Poimandres-Darker-theme.json"
+      },
+      {
         "label": "Noir Poimandres Black",
         "uiTheme": "vs-dark",
         "path": "./themes/Noir-Poimandres-Black-theme.json"
