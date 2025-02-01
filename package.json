@@ -3,7 +3,7 @@
   "displayName": "Noir",
   "icon": "assets/noir-logo.png",
   "description": "Collection of refined popular themes, just darker or cleaner.",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/andrew-george/Noir-vscode-theme"
@@ -110,6 +110,16 @@
         "label": "Noir Rosé Pine Moon Grey",
         "uiTheme": "vs-dark",
         "path": "./themes/Noir-Rosé-Pine-Moon-Grey-theme.json"
+      },
+      {
+        "label": "Noir Catppuccin Mocha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Catppuccin-Mocha.json"
+      },
+      {
+        "label": "Noir Catppuccin Macchiato",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir-Catppuccin-Macchiato.json"
       }
     ]
   }
